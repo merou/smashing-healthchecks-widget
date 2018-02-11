@@ -22,5 +22,6 @@ Since I am using both, I came up with this simple widget.
 </li>
 ```
 
-### Demo
+### Screenshot
 
+![screenshot](smashing_healthcheck.png?raw=true "screenshot")
