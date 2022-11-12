@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: smashing-healthchecks-widget
+  annotations:
+    github.com/project-slug: merou/smashing-healthchecks-widget
+spec:
+  type: other
+  lifecycle: unknown
+  owner: merou
