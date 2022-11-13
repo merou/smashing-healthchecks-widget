@@ -7,10 +7,10 @@ metadata:
       title: My Dashboard
       icon: dashboard
   annotations:
+    backstage.io/techdocs-ref: value
     github.com/project-slug: merou/smashing-healthchecks-widget
 
 spec:
   type: other
-  backstage.io/techdocs-ref: value
   lifecycle: unknown
   owner: merou
