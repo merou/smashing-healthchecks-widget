@@ -1,0 +1,7 @@
+site_name: 'Smashing widget'
+
+nav:
+  - Readme: README.md
+
+plugins:
+  - techdocs-core
