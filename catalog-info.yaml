@@ -4,6 +4,10 @@ metadata:
   name: smashing-healthchecks-widget
   annotations:
     github.com/project-slug: merou/smashing-healthchecks-widget
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: other
   lifecycle: unknown
